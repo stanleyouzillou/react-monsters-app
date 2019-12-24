@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react2020-monsters/static/css/main.38078d19.chunk.css",
+    "main.js": "/react2020-monsters/static/js/main.763ea523.chunk.js",
+    "main.js.map": "/react2020-monsters/static/js/main.763ea523.chunk.js.map",
+    "runtime-main.js": "/react2020-monsters/static/js/runtime-main.564bf5a5.js",
+    "runtime-main.js.map": "/react2020-monsters/static/js/runtime-main.564bf5a5.js.map",
+    "static/js/2.5623ebb2.chunk.js": "/react2020-monsters/static/js/2.5623ebb2.chunk.js",
+    "static/js/2.5623ebb2.chunk.js.map": "/react2020-monsters/static/js/2.5623ebb2.chunk.js.map",
+    "index.html": "/react2020-monsters/index.html",
+    "precache-manifest.0fbf87748e610307f3fbe278f73f9d25.js": "/react2020-monsters/precache-manifest.0fbf87748e610307f3fbe278f73f9d25.js",
+    "service-worker.js": "/react2020-monsters/service-worker.js",
+    "static/css/main.38078d19.chunk.css.map": "/react2020-monsters/static/css/main.38078d19.chunk.css.map",
+    "static/js/2.5623ebb2.chunk.js.LICENSE": "/react2020-monsters/static/js/2.5623ebb2.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.564bf5a5.js",
+    "static/js/2.5623ebb2.chunk.js",
+    "static/css/main.38078d19.chunk.css",
+    "static/js/main.763ea523.chunk.js"
+  ]
+}
